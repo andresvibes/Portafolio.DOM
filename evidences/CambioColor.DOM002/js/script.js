@@ -27,7 +27,7 @@ boton.addEventListener("click", () => {
 
     if(imagen.src.includes("15147078.png")){
 
-        imagen.src = "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/15665/production/_107435678_perro1.jpg.webp";
+        imagen.src = "https://images.vexels.com/media/users/3/200152/isolated/lists/f3945e94178a1942e4a1c38f2cd1b162-ilustracion-de-perro-pinscher-de-pie.png";
 
     } else {
 
